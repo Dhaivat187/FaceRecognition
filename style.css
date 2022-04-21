@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+}
+
+.heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+    width: 80%;
+}
+
+.name_of_people {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.answers {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.button {
+    color: black;
+}
